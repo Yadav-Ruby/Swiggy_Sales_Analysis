@@ -14,7 +14,7 @@ This project analyzes Swiggy sales data using Microsoft Excel to identify trends
 - Swiggy sales dataset (CSV/Excel)
 - Fields include order date, city, restaurant name, order value, and quantity
 
-## 🛠 Tools Used
+##  Tools Used
 - Microsoft Excel
 - Data Cleaning & Transformation
 - Pivot Tables & Pivot Charts
@@ -28,7 +28,7 @@ This project analyzes Swiggy sales data using Microsoft Excel to identify trends
 - Revenue by City
 - Top Restaurants by Revenue
 
-## 🔍 Key Insights
+## Key Insights
 - Revenue is concentrated in a few major cities
 - Some restaurants consistently generate higher sales
 - Average order value varies across locations
@@ -37,7 +37,7 @@ This project analyzes Swiggy sales data using Microsoft Excel to identify trends
 An Excel dashboard was created to visualize KPIs and sales trends.
 (Dashboard screenshot included in the visuals folder)
 
-## 🚀 Future Improvements
+## Future Improvements
 - Add customer-level analysis
 - Extend the project using Power BI or Python
 - Deeper time-based trend analysis
@@ -45,5 +45,5 @@ An Excel dashboard was created to visualize KPIs and sales trends.
 ## 👤 Author
 Ruby Yadav  
 Aspiring Data Analyst  
-Skills: Excel | SQL (Learning) | Power BI (Learning)
+Skills: Excel | SQL | Power BI
 
