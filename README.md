@@ -12,11 +12,11 @@ This project analyzes Swiggy sales data using Microsoft Excel to identify trends
 ## 📂 Dataset
 - Swiggy sales dataset (CSV/Excel)
 - Fields include:
-  - Order Date  
-  - City  
-  - Restaurant Name  
-  - Order Value  
-  - Quantity  
+  - Order Date
+  - City
+  - Restaurant Name
+  - Order Value
+  - Quantity
 
 ## 🛠 Tools Used
 - Microsoft Excel
