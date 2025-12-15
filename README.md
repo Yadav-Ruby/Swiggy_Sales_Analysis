@@ -1,4 +1,4 @@
-#  Swiggy Sales Analysis (Excel)
+# 🍔 Swiggy Sales Analysis (Excel)
 
 ## 📌 Project Overview
 This project analyzes Swiggy sales data using Microsoft Excel to identify trends in orders, revenue, and restaurant performance. The objective is to convert raw data into meaningful business insights.
