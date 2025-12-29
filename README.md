@@ -44,10 +44,11 @@ An Excel dashboard was created to visualize KPIs and sales trends.
 ## 📊 Dashboard Preview
 
 ### Dashboard Overview
-![Dashboard Overview](Dashboard_Screenshot.png)
+![Dashboard Overview](screenshots/Dashboard_Screenshot.png)
 
 ### Sales Trends
-![Sales Trends](Dashboard_Screenshot2.png)
+![Sales Trends](screenshots/Dashboard_Screenshot2.png)
+
 
 
 ## Future Improvements
