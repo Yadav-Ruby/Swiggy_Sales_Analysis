@@ -37,16 +37,18 @@ This project analyzes Swiggy sales data using Microsoft Excel to identify trends
 - Some restaurants consistently generate higher sales
 - Average order value varies across locations
 
-## Dashboard
-An Excel dashboard was created to visualize KPIs and sales trends.  
-*## 📊 Dashboard Preview
+## 📊 Dashboard
+
+An Excel dashboard was created to visualize KPIs and sales trends.
 
 ## 📊 Dashboard Preview
 
-![Dashboard Overview](screenshots/dashboard_Screenshot.png)
+### Dashboard Overview
+![Dashboard Overview](Dashboard_Screenshot.png)
 
-![Sales Trends](screenshots/Dashboard_Screenshot2.png)
-*
+### Sales Trends
+![Sales Trends](Dashboard_Screenshot2.png)
+
 
 ## Future Improvements
 - Add customer-level analysis
