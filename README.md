@@ -39,7 +39,11 @@ This project analyzes Swiggy sales data using Microsoft Excel to identify trends
 
 ## Dashboard
 An Excel dashboard was created to visualize KPIs and sales trends.  
-*(Dashboard screenshot included in the visuals folder)*
+*## 📊 Dashboard Preview
+
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+![Sales Trends](screenshots/sales_trends.png)*
 
 ## Future Improvements
 - Add customer-level analysis
